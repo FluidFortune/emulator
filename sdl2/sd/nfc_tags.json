@@ -1,0 +1,11 @@
+{
+  "nfc": {
+    "type": "A",
+    "uid": "04A3F211C25E80",
+    "ndef_text": "Pisces Moon Dev Tag"
+  },
+  "rfid": {
+    "type": "EM4100",
+    "id": "00DEADC0"
+  }
+}
