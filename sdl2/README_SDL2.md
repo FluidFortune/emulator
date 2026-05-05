@@ -3,7 +3,7 @@
 Develop for Pisces Moon on your laptop. No T-Deck Plus required.  
 Write real C++ against the real HAL. Test on desktop in seconds. Flash when ready.
 
-**GitHub:** github.com/FluidFortune/PiscesMoon  
+**GitHub:** github.com/FluidFortune/emulator  
 **Live Demo:** piscesdemo.fluidfortune.com  
 **License:** AGPL-3.0-or-later
 
@@ -79,7 +79,7 @@ manually installing SDL2 dev libs and adding them to PATH.
 ### 3. Clone the repo
 
 ```bash
-git clone https://github.com/FluidFortune/PiscesMoon.git
+git clone https://github.com/FluidFortune/emulator.git
 cd PiscesMoon
 ```
 
